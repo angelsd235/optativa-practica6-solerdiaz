@@ -1,1 +1,1 @@
-Cambio realizado en main (provocando choque)
+Cambio realizado en la rama conflicto
